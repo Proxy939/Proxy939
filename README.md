@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aaradhypatil.asp.100@gmail.com**
 
-- 📄 Know about my experiences [Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀](Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀)
+- 📄 Know about my experiences (Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀)
 
 - ⚡ Fun fact **Hard work is my talent and talent without hardwork is nothing🙂**
 
