@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Hard work is my talent and talent without hardwork is nothing🙂**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
