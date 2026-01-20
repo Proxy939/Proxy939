@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **When i am fixing the code even my ai agent tells me to move on and accept it😊😊😊**
 
-- 📫 How to reach me **aaradhypatil.asp.100@gmail.com**
-
 - 📄 Know about my experiences (Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀)
 
 - ⚡ Fun fact **Hard work is my talent and talent without hardwork is nothing🙂**
