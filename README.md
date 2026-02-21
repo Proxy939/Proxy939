@@ -55,3 +55,14 @@
     />
   </picture>
 </div>
+
+<!-- Live Activity Graph -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Proxy939&theme=redical&bg_color=141321&color=FFD700&line=FF6B6B&point=FFD700&area=true&hide_border=false&border_color=FFD700"
+    alt="Proxy939's Activity Graph"
+    width="95%"
+  />
+</div>
+
+<br/>
