@@ -24,17 +24,24 @@
 
 
 <!-- ===================== -->
-<!-- PAC-MAN CONTRIBUTION GRID -->
+<!--  PAC-MAN CONTRIBUTION  -->
 <!-- ===================== -->
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph-dark.svg" />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph.svg" />
-  <img 
-    alt="Pac-Man contribution graph" 
-    src="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Proxy939/Proxy939/output/pacman-contribution-graph.svg"
+      alt="Pac-Man eating my GitHub contributions"
+      title="Pac-Man Contribution Graph"
+      width="100%"
+    />
+  </picture>
+</div>
