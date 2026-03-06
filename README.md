@@ -17,22 +17,6 @@
 
 - ⚡ Fun fact **Hard work is my talent and talent without hardwork is nothing**
 
-
-<p align="left">
-</p>
-
-<!-- ===================== -->
-<!--    STREAK COUNTER      -->
-<!-- ===================== -->
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Proxy939&theme=radical&border=FFD700&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700"
-    alt="GitHub Streak"
-    width="60%"
-  />
-</div>
-
 <!-- ===================== -->
 <!--  PAC-MAN CONTRIBUTION  -->
 <!-- ===================== -->
