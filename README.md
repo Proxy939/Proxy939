@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **I am a multi-stack developer on a mission to build the next generation of intelligent software. My work sits at the intersection of Full Stack Web, Android Development, Machine Learning and Artificial Intelligence. I specialize in creating cohesive digital ecosystems where Machine Learning models power the core, and AI Agents/Bots handle the automation. Whether it’s a mobile app or a web platform, I strive to make software that doesn't just work it thinks**
+- 🌱 learning **I am a multi-stack developer on a mission to build the next generation of intelligent software. My work sits at the intersection of Full Stack Web, Android Development, Machine Learning and Artificial Intelligence. I specialize in creating cohesive digital ecosystems where Machine Learning models power the core, and AI Agents/Bots handle the automation. Whether it’s a mobile app or a web platform, I strive to make software that doesn't just work it thinks**
 
 - 👯 I’m looking to collaborate on **Open-source projects that bridge the gap between AI and Automation—specifically building automated data pipelines, fine-tuning LLMs, or developing intelligent Python bots and predictive models that make software smarter and more efficient.**
 
-- 🤝 I’m looking for help with **Mastering Deep Learning architectures (CNNs/RNNs), understanding the mathematics behind gradient descent, and optimizing hyperparameters for better model accuracy.**
-
 - 📄 Know about my experiences (Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀)
 
-- ⚡ Fun fact **Hard work is my talent and talent without hardwork is nothing**
+- ⚡**Hard work is my talent and talent without hardwork is nothing**
 
 <!-- ===================== -->
 <!--  PAC-MAN CONTRIBUTION  -->
