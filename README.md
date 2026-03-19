@@ -15,6 +15,10 @@
 
 - ⚡**Hard work is my talent and talent without hardwork is nothing**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/hm.gif" width="900" />
+</p>
+
 <!-- ===================== -->
 <!--  PAC-MAN CONTRIBUTION  -->
 <!-- ===================== -->
@@ -48,7 +52,3 @@
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/hm.gif" width="500" />
-</p>
