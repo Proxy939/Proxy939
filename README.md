@@ -50,5 +50,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/samurai.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/hm.gif" width="500" />
 </p>
