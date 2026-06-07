@@ -9,7 +9,7 @@
 
 - 🌱 learning **I am a multi-stack developer on a mission to build the next generation of intelligent software. My work sits at the intersection of Full Stack Web, Android Development, Machine Learning and Artificial Intelligence. I specialize in creating cohesive digital ecosystems where Machine Learning models power the core, and AI Agents/Bots handle the automation. Whether it’s a mobile app or a web platform, I strive to make software that doesn't just work it thinks**
 
-- 📄 Know about my experiences (Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀)
+- Computer Engineering student | AI & Full-Stack Projects | Learning by building 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Proxy939/Proxy939/main/hm.gif" width="900" />
